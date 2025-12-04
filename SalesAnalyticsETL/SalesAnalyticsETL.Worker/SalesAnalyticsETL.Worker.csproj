@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UserSecretsId>dotnet-SalesAnalyticsETL.Worker-f16725a7-60d9-4340-a6b3-79726896981c</UserSecretsId>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<!-- Paquetes existentes -->
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.10" />
+		<PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.1" />
+
+		<!-- AGREGAR ESTOS PAQUETES ⭐ -->
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.10">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Serilog.AspNetCore" Version="8.0.0" />
+		<PackageReference Include="Serilog.Sinks.Console" Version="5.0.1" />
+		<PackageReference Include="Serilog.Sinks.File" Version="5.0.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\SalesAnalyticsETL.Application\SalesAnalyticsETL.Application.csproj" />
+		<ProjectReference Include="..\SalesAnalyticsETL.Domain\SalesAnalyticsETL.Domain.csproj" />
+		<ProjectReference Include="..\SalesAnalyticsETL.Infrastructure\SalesAnalyticsETL.Infrastructure.csproj" />
+	</ItemGroup>
+
+	<!-- AGREGAR ESTO para copiar el CSV al output ⭐ -->
+	<ItemGroup>
+		<None Update="Data\**\*">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="logs\" />
+	</ItemGroup>
+</Project>

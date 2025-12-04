@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A91CAB7C-51F5-4C72-B7D0-13F7C29042E6}|SalesAnalyticsETL.Worker\\SalesAnalyticsETL.Worker.csproj|c:\\users\\a_m_b\\desktop\\salesanalyticsetl\\salesanalyticsetl.worker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91CAB7C-51F5-4C72-B7D0-13F7C29042E6}|SalesAnalyticsETL.Worker\\SalesAnalyticsETL.Worker.csproj|solutionrelative:salesanalyticsetl.worker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{041A2385-702A-42D1-8788-723D10A91DB2}|SalesAnalyticsETL.Api\\SalesAnalyticsETL.Api.csproj|c:\\users\\a_m_b\\desktop\\salesanalyticsetl\\salesanalyticsetl.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{041A2385-702A-42D1-8788-723D10A91DB2}|SalesAnalyticsETL.Api\\SalesAnalyticsETL.Api.csproj|solutionrelative:salesanalyticsetl.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{041A2385-702A-42D1-8788-723D10A91DB2}|SalesAnalyticsETL.Api\\SalesAnalyticsETL.Api.csproj|c:\\users\\a_m_b\\desktop\\salesanalyticsetl\\salesanalyticsetl.api\\controllers\\dimtiempocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{041A2385-702A-42D1-8788-723D10A91DB2}|SalesAnalyticsETL.Api\\SalesAnalyticsETL.Api.csproj|solutionrelative:salesanalyticsetl.api\\controllers\\dimtiempocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{041A2385-702A-42D1-8788-723D10A91DB2}|SalesAnalyticsETL.Api\\SalesAnalyticsETL.Api.csproj|c:\\users\\a_m_b\\desktop\\salesanalyticsetl\\salesanalyticsetl.api\\controllers\\dimproductocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{041A2385-702A-42D1-8788-723D10A91DB2}|SalesAnalyticsETL.Api\\SalesAnalyticsETL.Api.csproj|solutionrelative:salesanalyticsetl.api\\controllers\\dimproductocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{041A2385-702A-42D1-8788-723D10A91DB2}|SalesAnalyticsETL.Api\\SalesAnalyticsETL.Api.csproj|c:\\users\\a_m_b\\desktop\\salesanalyticsetl\\salesanalyticsetl.api\\controllers\\dimestadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{041A2385-702A-42D1-8788-723D10A91DB2}|SalesAnalyticsETL.Api\\SalesAnalyticsETL.Api.csproj|solutionrelative:salesanalyticsetl.api\\controllers\\dimestadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{041A2385-702A-42D1-8788-723D10A91DB2}|SalesAnalyticsETL.Api\\SalesAnalyticsETL.Api.csproj|c:\\users\\a_m_b\\desktop\\salesanalyticsetl\\salesanalyticsetl.api\\controllers\\dimclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{041A2385-702A-42D1-8788-723D10A91DB2}|SalesAnalyticsETL.Api\\SalesAnalyticsETL.Api.csproj|solutionrelative:salesanalyticsetl.api\\controllers\\dimclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8916891-0CFC-4ABC-B259-20D69CF7E380}|SalesAnalyticsETL.Application\\SalesAnalyticsETL.Application.csproj|c:\\users\\a_m_b\\desktop\\salesanalyticsetl\\salesanalyticsetl.application\\validators\\ventavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8916891-0CFC-4ABC-B259-20D69CF7E380}|SalesAnalyticsETL.Application\\SalesAnalyticsETL.Application.csproj|solutionrelative:salesanalyticsetl.application\\validators\\ventavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8916891-0CFC-4ABC-B259-20D69CF7E380}|SalesAnalyticsETL.Application\\SalesAnalyticsETL.Application.csproj|c:\\users\\a_m_b\\desktop\\salesanalyticsetl\\salesanalyticsetl.application\\services\\etlorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8916891-0CFC-4ABC-B259-20D69CF7E380}|SalesAnalyticsETL.Application\\SalesAnalyticsETL.Application.csproj|solutionrelative:salesanalyticsetl.application\\services\\etlorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B7F233-5C2D-479D-BAA9-2B8A838CFD27}|SalesAnalyticsETL.Domain\\SalesAnalyticsETL.Domain.csproj|c:\\users\\a_m_b\\desktop\\salesanalyticsetl\\salesanalyticsetl.domain\\interfaces\\idimtiempoloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B7F233-5C2D-479D-BAA9-2B8A838CFD27}|SalesAnalyticsETL.Domain\\SalesAnalyticsETL.Domain.csproj|solutionrelative:salesanalyticsetl.domain\\interfaces\\idimtiempoloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B7F233-5C2D-479D-BAA9-2B8A838CFD27}|SalesAnalyticsETL.Domain\\SalesAnalyticsETL.Domain.csproj|c:\\users\\a_m_b\\desktop\\salesanalyticsetl\\salesanalyticsetl.domain\\interfaces\\idimproductoloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B7F233-5C2D-479D-BAA9-2B8A838CFD27}|SalesAnalyticsETL.Domain\\SalesAnalyticsETL.Domain.csproj|solutionrelative:salesanalyticsetl.domain\\interfaces\\idimproductoloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B7F233-5C2D-479D-BAA9-2B8A838CFD27}|SalesAnalyticsETL.Domain\\SalesAnalyticsETL.Domain.csproj|c:\\users\\a_m_b\\desktop\\salesanalyticsetl\\salesanalyticsetl.domain\\interfaces\\idimestadoloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B7F233-5C2D-479D-BAA9-2B8A838CFD27}|SalesAnalyticsETL.Domain\\SalesAnalyticsETL.Domain.csproj|solutionrelative:salesanalyticsetl.domain\\interfaces\\idimestadoloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B7F233-5C2D-479D-BAA9-2B8A838CFD27}|SalesAnalyticsETL.Domain\\SalesAnalyticsETL.Domain.csproj|c:\\users\\a_m_b\\desktop\\salesanalyticsetl\\salesanalyticsetl.domain\\interfaces\\idimclienteloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B7F233-5C2D-479D-BAA9-2B8A838CFD27}|SalesAnalyticsETL.Domain\\SalesAnalyticsETL.Domain.csproj|solutionrelative:salesanalyticsetl.domain\\interfaces\\idimclienteloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B7F233-5C2D-479D-BAA9-2B8A838CFD27}|SalesAnalyticsETL.Domain\\SalesAnalyticsETL.Domain.csproj|c:\\users\\a_m_b\\desktop\\salesanalyticsetl\\salesanalyticsetl.domain\\entities\\dimcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B7F233-5C2D-479D-BAA9-2B8A838CFD27}|SalesAnalyticsETL.Domain\\SalesAnalyticsETL.Domain.csproj|solutionrelative:salesanalyticsetl.domain\\entities\\dimcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8E2C8E-885C-4BC2-B4C6-102955DFE6FD}|SalesAnalyticsETL.Infrastructure\\SalesAnalyticsETL.Infrastructure.csproj|c:\\users\\a_m_b\\desktop\\salesanalyticsetl\\salesanalyticsetl.infrastructure\\repositories\\datawarehouseloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8E2C8E-885C-4BC2-B4C6-102955DFE6FD}|SalesAnalyticsETL.Infrastructure\\SalesAnalyticsETL.Infrastructure.csproj|solutionrelative:salesanalyticsetl.infrastructure\\repositories\\datawarehouseloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8E2C8E-885C-4BC2-B4C6-102955DFE6FD}|SalesAnalyticsETL.Infrastructure\\SalesAnalyticsETL.Infrastructure.csproj|c:\\users\\a_m_b\\desktop\\salesanalyticsetl\\salesanalyticsetl.infrastructure\\repositories\\clientecsvextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8E2C8E-885C-4BC2-B4C6-102955DFE6FD}|SalesAnalyticsETL.Infrastructure\\SalesAnalyticsETL.Infrastructure.csproj|solutionrelative:salesanalyticsetl.infrastructure\\repositories\\clientecsvextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8E2C8E-885C-4BC2-B4C6-102955DFE6FD}|SalesAnalyticsETL.Infrastructure\\SalesAnalyticsETL.Infrastructure.csproj|c:\\users\\a_m_b\\desktop\\salesanalyticsetl\\salesanalyticsetl.infrastructure\\loaders\\dimtiempoloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8E2C8E-885C-4BC2-B4C6-102955DFE6FD}|SalesAnalyticsETL.Infrastructure\\SalesAnalyticsETL.Infrastructure.csproj|solutionrelative:salesanalyticsetl.infrastructure\\loaders\\dimtiempoloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8E2C8E-885C-4BC2-B4C6-102955DFE6FD}|SalesAnalyticsETL.Infrastructure\\SalesAnalyticsETL.Infrastructure.csproj|c:\\users\\a_m_b\\desktop\\salesanalyticsetl\\salesanalyticsetl.infrastructure\\loaders\\dimproductoloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8E2C8E-885C-4BC2-B4C6-102955DFE6FD}|SalesAnalyticsETL.Infrastructure\\SalesAnalyticsETL.Infrastructure.csproj|solutionrelative:salesanalyticsetl.infrastructure\\loaders\\dimproductoloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8E2C8E-885C-4BC2-B4C6-102955DFE6FD}|SalesAnalyticsETL.Infrastructure\\SalesAnalyticsETL.Infrastructure.csproj|c:\\users\\a_m_b\\desktop\\salesanalyticsetl\\salesanalyticsetl.infrastructure\\loaders\\dimestadoloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8E2C8E-885C-4BC2-B4C6-102955DFE6FD}|SalesAnalyticsETL.Infrastructure\\SalesAnalyticsETL.Infrastructure.csproj|solutionrelative:salesanalyticsetl.infrastructure\\loaders\\dimestadoloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8E2C8E-885C-4BC2-B4C6-102955DFE6FD}|SalesAnalyticsETL.Infrastructure\\SalesAnalyticsETL.Infrastructure.csproj|c:\\users\\a_m_b\\desktop\\salesanalyticsetl\\salesanalyticsetl.infrastructure\\loaders\\dimclienteloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8E2C8E-885C-4BC2-B4C6-102955DFE6FD}|SalesAnalyticsETL.Infrastructure\\SalesAnalyticsETL.Infrastructure.csproj|solutionrelative:salesanalyticsetl.infrastructure\\loaders\\dimclienteloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Worker\\Worker.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsETL.Worker\\Worker.cs",
+              "ToolTip": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Worker\\Worker.cs",
+              "RelativeToolTip": "SalesAnalyticsETL.Worker\\Worker.cs",
+              "ViewState": "AgIAACwAAAAAZmZmZuYSwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:43:18.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Api\\Program.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsETL.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Api\\Program.cs",
+              "RelativeToolTip": "SalesAnalyticsETL.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:42:10.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DimTiempoController.cs",
+              "DocumentMoniker": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Api\\Controllers\\DimTiempoController.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsETL.Api\\Controllers\\DimTiempoController.cs",
+              "ToolTip": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Api\\Controllers\\DimTiempoController.cs",
+              "RelativeToolTip": "SalesAnalyticsETL.Api\\Controllers\\DimTiempoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:36:34.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DimProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Api\\Controllers\\DimProductoController.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsETL.Api\\Controllers\\DimProductoController.cs",
+              "ToolTip": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Api\\Controllers\\DimProductoController.cs",
+              "RelativeToolTip": "SalesAnalyticsETL.Api\\Controllers\\DimProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:35:52.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DimEstadoController.cs",
+              "DocumentMoniker": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Api\\Controllers\\DimEstadoController.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsETL.Api\\Controllers\\DimEstadoController.cs",
+              "ToolTip": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Api\\Controllers\\DimEstadoController.cs",
+              "RelativeToolTip": "SalesAnalyticsETL.Api\\Controllers\\DimEstadoController.cs",
+              "ViewState": "AgIAAFoAAACA/////38owIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:28:54.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DimClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Api\\Controllers\\DimClienteController.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsETL.Api\\Controllers\\DimClienteController.cs",
+              "ToolTip": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Api\\Controllers\\DimClienteController.cs",
+              "RelativeToolTip": "SalesAnalyticsETL.Api\\Controllers\\DimClienteController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAmwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:28:34.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VentaValidator.cs",
+              "DocumentMoniker": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Application\\Validators\\VentaValidator.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsETL.Application\\Validators\\VentaValidator.cs",
+              "ToolTip": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Application\\Validators\\VentaValidator.cs",
+              "RelativeToolTip": "SalesAnalyticsETL.Application\\Validators\\VentaValidator.cs",
+              "ViewState": "AgIAAB4AAACAZmZmZmYswDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:28:04.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ETLOrchestrator.cs",
+              "DocumentMoniker": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Application\\Services\\ETLOrchestrator.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsETL.Application\\Services\\ETLOrchestrator.cs",
+              "ToolTip": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Application\\Services\\ETLOrchestrator.cs",
+              "RelativeToolTip": "SalesAnalyticsETL.Application\\Services\\ETLOrchestrator.cs",
+              "ViewState": "AgIAAHIAAAAAnpmZmRkdwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:27:49.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDimTiempoLoader.cs",
+              "DocumentMoniker": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Domain\\Interfaces\\IDimTiempoLoader.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsETL.Domain\\Interfaces\\IDimTiempoLoader.cs",
+              "ToolTip": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Domain\\Interfaces\\IDimTiempoLoader.cs",
+              "RelativeToolTip": "SalesAnalyticsETL.Domain\\Interfaces\\IDimTiempoLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:27:19.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDimProductoLoader.cs",
+              "DocumentMoniker": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Domain\\Interfaces\\IDimProductoLoader.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsETL.Domain\\Interfaces\\IDimProductoLoader.cs",
+              "ToolTip": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Domain\\Interfaces\\IDimProductoLoader.cs",
+              "RelativeToolTip": "SalesAnalyticsETL.Domain\\Interfaces\\IDimProductoLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:27:12.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDimEstadoLoader.cs",
+              "DocumentMoniker": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Domain\\Interfaces\\IDimEstadoLoader.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsETL.Domain\\Interfaces\\IDimEstadoLoader.cs",
+              "ToolTip": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Domain\\Interfaces\\IDimEstadoLoader.cs",
+              "RelativeToolTip": "SalesAnalyticsETL.Domain\\Interfaces\\IDimEstadoLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:27:06.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDimClienteLoader.cs",
+              "DocumentMoniker": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Domain\\Interfaces\\IDimClienteLoader.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsETL.Domain\\Interfaces\\IDimClienteLoader.cs",
+              "ToolTip": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Domain\\Interfaces\\IDimClienteLoader.cs",
+              "RelativeToolTip": "SalesAnalyticsETL.Domain\\Interfaces\\IDimClienteLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:26:59.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DimCliente.cs",
+              "DocumentMoniker": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Domain\\Entities\\DimCliente.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsETL.Domain\\Entities\\DimCliente.cs",
+              "ToolTip": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Domain\\Entities\\DimCliente.cs",
+              "RelativeToolTip": "SalesAnalyticsETL.Domain\\Entities\\DimCliente.cs",
+              "ViewState": "AgIAAAYAAAAAMzMzM5MwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:26:44.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataWarehouseLoader.cs",
+              "DocumentMoniker": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Infrastructure\\Repositories\\DataWarehouseLoader.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsETL.Infrastructure\\Repositories\\DataWarehouseLoader.cs",
+              "ToolTip": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Infrastructure\\Repositories\\DataWarehouseLoader.cs",
+              "RelativeToolTip": "SalesAnalyticsETL.Infrastructure\\Repositories\\DataWarehouseLoader.cs",
+              "ViewState": "AgIAANsAAAAAmZmZmZktwNUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:25:21.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClienteCsvExtractor.cs",
+              "DocumentMoniker": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Infrastructure\\Repositories\\ClienteCsvExtractor.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsETL.Infrastructure\\Repositories\\ClienteCsvExtractor.cs",
+              "ToolTip": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Infrastructure\\Repositories\\ClienteCsvExtractor.cs",
+              "RelativeToolTip": "SalesAnalyticsETL.Infrastructure\\Repositories\\ClienteCsvExtractor.cs",
+              "ViewState": "AgIAABABAAAAYGZmZmYXwPsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:24:19.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DimTiempoLoader.cs",
+              "DocumentMoniker": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Infrastructure\\Loaders\\DimTiempoLoader.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsETL.Infrastructure\\Loaders\\DimTiempoLoader.cs",
+              "ToolTip": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Infrastructure\\Loaders\\DimTiempoLoader.cs",
+              "RelativeToolTip": "SalesAnalyticsETL.Infrastructure\\Loaders\\DimTiempoLoader.cs",
+              "ViewState": "AgIAAMIAAAAAJjMzM7MfwN0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:23:13.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DimProductoLoader.cs",
+              "DocumentMoniker": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Infrastructure\\Loaders\\DimProductoLoader.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsETL.Infrastructure\\Loaders\\DimProductoLoader.cs",
+              "ToolTip": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Infrastructure\\Loaders\\DimProductoLoader.cs",
+              "RelativeToolTip": "SalesAnalyticsETL.Infrastructure\\Loaders\\DimProductoLoader.cs",
+              "ViewState": "AgIAAH8AAAAAzMzMzOwwwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:22:37.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DimEstadoLoader.cs",
+              "DocumentMoniker": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Infrastructure\\Loaders\\DimEstadoLoader.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsETL.Infrastructure\\Loaders\\DimEstadoLoader.cs",
+              "ToolTip": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Infrastructure\\Loaders\\DimEstadoLoader.cs",
+              "RelativeToolTip": "SalesAnalyticsETL.Infrastructure\\Loaders\\DimEstadoLoader.cs",
+              "ViewState": "AgIAADEAAACAMzMzMzMRwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:22:25.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DimClienteLoader.cs",
+              "DocumentMoniker": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Infrastructure\\Loaders\\DimClienteLoader.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsETL.Infrastructure\\Loaders\\DimClienteLoader.cs",
+              "ToolTip": "C:\\Users\\A_M_B\\Desktop\\SalesAnalyticsETL\\SalesAnalyticsETL.Infrastructure\\Loaders\\DimClienteLoader.cs",
+              "RelativeToolTip": "SalesAnalyticsETL.Infrastructure\\Loaders\\DimClienteLoader.cs",
+              "ViewState": "AgIAAKcAAAAAmpmZmRkpwJ8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:19:30.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 233,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
